@@ -1,0 +1,86 @@
+
+.select2-container--default .select2-selection--single {
+	height: 50px;
+	border-color: rgba(255,255,255,0.20);
+	padding: 5px 0;
+	outline:none
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow:after {
+	content: "\f107";
+	font-family: 'Font Awesome 5 Free';
+	font-size: 20px;
+	top: 7px; right:5px;
+	color: #58a01c;
+	position: relative; font-weight:600;
+	
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow b[role=presentation] {
+	display: none
+}
+
+.select2-search__field {
+
+	outline:none
+}
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+	background-color: #58a01c
+}
+.select2-dropdown ::-webkit-scrollbar {
+width:8px
+}
+.select2-dropdown ::-webkit-scrollbar-track {
+background:#fff
+}
+.select2-dropdown ::-webkit-scrollbar-thumb {
+background:grey;
+opacity:.2;
+transition:.5s
+}
+.select2-dropdown ::-webkit-scrollbar-thumb:hover {
+background:#083362;
+opacity:1
+}
+.select2.select2-container {
+	width: 100%!important
+}
+
+.select2-selection__rendered .select2-selection__choice {
+	background-color: #17cdb6!important;
+	border-color: #17cdb6!important;
+	color: #fff
+}
+.select2-selection__rendered .select2-selection__choice span {
+	color: #fff!important;
+	transition: .5s
+}
+.select2-selection__rendered .select2-selection__choice span:hover {
+	color: #083362
+}
+
+.select2-container.select2-container--default.select2-container--open {
+	z-index: 50000000
+}
+.select2-selection.select2-selection--multiple, .select2-container--default.select2-container--focus .select2-selection--multiple {
+	border-color: #e7e8e8;
+	height: 40px;
+	max-height: 80px;
+	display: table;
+	width: 100%
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li {
+	line-height: 26px
+}
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li .select2-selection__choice__remove {
+	margin-right: 6px;
+	font-size: 1.25rem
+}
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li .select2-selection__choice__remove:hover {
+	color: #083362!important;
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	-ms-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out
+}
+

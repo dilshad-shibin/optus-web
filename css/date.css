@@ -1,0 +1,35 @@
+ .datepicker {
+            font-size: 0.875em;
+        }
+        /* solution 2: the original datepicker use 20px so replace with the following:*/
+        
+        .datepicker td, .datepicker th {
+            width: 1.5em;
+            height: 1.5em;
+        }
+
+.datepicker th {
+    font-weight: 500
+}
+
+.datepicker table tr td.active.active {
+    background: #2878eb !important
+}
+
+.datepicker table tr td.highlighted {
+    background: #fff !important
+}
+
+.datepicker table tr td.today {
+    background: #071739 !important; color:#fff !important
+}
+
+.datepicker .datepicker-switch {
+    width: 204px !important
+}
+
+.datepicker td, .datepicker th {
+    height: 35px !important
+}
+
+
