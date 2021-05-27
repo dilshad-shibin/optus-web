@@ -75,6 +75,24 @@
     </div>
 </section>
     
+
+
+<section class="comn_apply_linkd comn_apply_linkd-bg">
+    <div class="bg-overlay"></div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9">
+                <div class="ca_link_box">
+                    <h3 class="wow fadeInUp" >International Recruitment  </h3>    
+                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">Our strong global presence in the healthcare staffing market enables us to recruit the best overseas healthcare professionals for your organization.
+                    </p>
+                    <a class="theme_btn wow fadeInUp" href="contact.php" data-wow-duration="1s" data-wow-delay="0.4s">Enquire Now</a>
+                </div>    
+            </div>    
+        </div>
+    </div>  
+</section>
+
 <section class="mission_sec">
     <div class="container">
         <div class="row">
@@ -89,7 +107,7 @@
             <div class="col-lg-6">
                 <div class="mis_sec_right pl-lg-3">
                     <div class="comn_img_block wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
-                        <img src="images/student-man.jpg">
+                        <img src="images/student-man.jpg" style="object-fit:contain">
                     </div> 
                     <div class="com_circle_box1 float_right"></div>
                     <div class="com_circle_box2 float_up"></div>

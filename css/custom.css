@@ -2459,4 +2459,24 @@ body {
     margin-bottom: 50px;
 }
 
+.comn_apply_linkd-bg{
+    background: url('../images/world-wide.jpg');
+    background-size: cover;
+    position: relative
+}
+
+.bg-overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.8;
+    background-color: #051701;
+}
+
+.mission_sec{
+    padding: 130px 0;
+}
+
 /*# sourceMappingURL=custom.css.map */

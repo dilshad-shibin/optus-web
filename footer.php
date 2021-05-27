@@ -32,12 +32,12 @@
 <div class="row">
 <div class="col-6"><ul class="">
 <li ><a href="index.php">Home</a> </li>    
-<li ><a href="content-update.php">Placements </a> </li>          
+<li ><a href="our-solution.php">Our-Solutions </a> </li>          
 <li ><a href="content-update.php">Interviews </a> </li>  
 <li ><a href="testimonials.php">Testimonials </a> </li> 
 </ul></div>
 <div class="col-6"><ul class="">   
-<li ><a href="content-update.php"> NMC Process</a> </li>    
+<li ><a href="process.php"> NMC Process</a> </li>    
 <li ><a href="about.php">About Us</a> </li>    
 <li ><a href="contact.php">Contact Us</a> </li>    
 </ul></div>    
