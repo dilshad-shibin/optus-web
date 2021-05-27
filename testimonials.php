@@ -38,7 +38,7 @@
 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
 
 <section class="in_bnr ib_op5" style="background:url(images/inbg2.jpg) no-repeat center; background-size:cover">
 <div class="container">
@@ -61,8 +61,8 @@
 <div>
 <div class="qute_icon"></div>
 <div >
-<p>"Savile Row went over and above in every way and had a very successful working relationship, not only with us as the main client, but also with the wider project team. They were professional, willing to listen and compromise and also work with us to achieve our goals.”</p>
-<h6>Thomas henry <span>thomas henry</span> </h6>
+<p>"Hello everyone,I would like to express my sincerest gratitude to Optus healthcare teams especially Mr.jacob  who had fulfilled my dreams to get settled in uk within 2mnths ,Optus healthcare delivers high quality care and they are really helpful in all stages of our process ,so I strongly recommend all nurses to choose Optus healthcare services  ....go ahead let your dreams comz true. 😍😍 ”</p>
+<h6>Eaju Abraham <span></span> </h6>
 </div>
 </div>
 </div>
@@ -71,8 +71,8 @@
 <div>
 <div class="qute_icon"></div>
 <div >
-<p>"Savile Row went over and above in every way and had a very successful working relationship, not only with us as the main client, but also with the wider project team. They were professional, willing to listen and compromise and also work with us to achieve our goals.”</p>
-<h6>Thomas henry <span>thomas henry</span> </h6>
+<p>"Hi... first of all I would like to thank you the whole the team members of Optus for helping me to achieve my dream to work in UK with in the short period of processing time even in this toughest pandemic time.I strongly recommend Optus healthcare limited for all  the nurses who wish to work in UK because of their dedication,timely response, excellence and very short processing time...thank you once again to the whole team members.”</p>
+<h6>Sikha Rajan <span></span> </h6>
 </div>
 </div>
 </div>
@@ -87,7 +87,7 @@
    
 
        
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->

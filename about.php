@@ -78,8 +78,8 @@
 <div class="">
 <div class="count_icon count_icon1"></div>
 <div class="count_dece">
-<div data-animation-duration="2000" data-value="10" class="animate-number counter_number">0</div> 
-<h5>YEARS OF EXPERIENCE</h5>
+<div data-animation-duration="2000" data-value="50" class="animate-number counter_number">0</div> 
+<h5>QUALITY UK EMPLOYERS</h5>
 </div>
 </div>
 </li>    
@@ -87,8 +87,8 @@
 <div class="">
 <div class="count_icon count_icon2"></div>
 <div class="count_dece">
-<div data-animation-duration="2000" data-value="12000" class="animate-number counter_number">0</div> 
-<h5>NURSES PLACED GLOBALLY</h5>
+<div data-animation-duration="2000" data-value="300" class="animate-number counter_number">0</div> 
+<h5>LIVE VACANCIES</h5>
 </div>
 </div>
 </li> 
@@ -96,8 +96,8 @@
 <div class="">
 <div class="count_icon count_icon3"></div>
 <div class="count_dece">
-<div data-animation-duration="2000" data-value="6000" class="animate-number counter_number">0</div> 
-<h5>NURSES PLACED IN THE UK</h5>
+<div data-animation-duration="2000" data-value="1000" class="animate-number counter_number">0</div> 
+<h5>NURSES PLACED GLOBALLY</h5>
 </div>
 </div>
 </li> 

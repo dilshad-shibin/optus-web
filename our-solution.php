@@ -50,6 +50,22 @@
 </div> 
 </div>
 </section> 
+
+<section class="comn_apply_linkd comn_apply_linkd-bg">
+    <div class="bg-overlay"></div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9">
+                <div class="ca_link_box">
+                    <h3 class="wow fadeInUp" >International Recruitment  </h3>    
+                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">Our strong global presence in the healthcare staffing market enables us to recruit the best overseas healthcare professionals for your organization.
+                    </p>
+                    <a class="theme_btn wow fadeInUp" href="contact.php" data-wow-duration="1s" data-wow-delay="0.4s">Enquire Now</a>
+                </div>    
+            </div>    
+        </div>
+    </div>  
+</section>
     
 <section class="inab_cont">
     <div class="container">
@@ -68,29 +84,11 @@
                     <h1 class="main_title ">NMC Paperwork and NMC CBT Training <div class="t_line"><span></span></div></h1>
                     <p>Optus Healthcare with its provides all its candidates a comprehensice one stop solution for their NMC processing and CBT training needs. Optus Healthcare has partnered with Learning Club, one of the premier NMC and CBT training academy providing quality, scholarly material ensuring sucess in your CBT exam in the first attempt itself. </p> 
                     <p>Optus Healthcare provides support with your NMC Paperwork and provides you with expert guidance to ensure that our candidates didn't hit any hurdles  with their NMC paperwork and get through the NMC process as smoothly as possible.</p>
-                    <p>Visit Learing club on www.ilearningclub.com and explore the best CBT training material you can get your hands on, carefully complied NMC CBT Materials for you to suceed your CBT in the first attempt. or contact Learning club on admin@ilearningclub.com to get your NMC CBT and NMC processing underway. </p>
+                    <p>Visit Learing club on <a href="http://learningclub.com/" target="_blank" style="color:#007bff">www.learningclub.com</a> and explore the best CBT training material you can get your hands on, carefully complied NMC CBT Materials for you to suceed your CBT in the first attempt. or contact Learning club on <a href="mailto:admin@learningclub.com" style="color:#007bff">admin@learningclub.com</a> to get your NMC CBT and NMC processing underway. </p>
                 </div>
             </div>
         </div>  
     </div>
-</section>
-    
-
-
-<section class="comn_apply_linkd comn_apply_linkd-bg">
-    <div class="bg-overlay"></div>
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-9">
-                <div class="ca_link_box">
-                    <h3 class="wow fadeInUp" >International Recruitment  </h3>    
-                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">Our strong global presence in the healthcare staffing market enables us to recruit the best overseas healthcare professionals for your organization.
-                    </p>
-                    <a class="theme_btn wow fadeInUp" href="contact.php" data-wow-duration="1s" data-wow-delay="0.4s">Enquire Now</a>
-                </div>    
-            </div>    
-        </div>
-    </div>  
 </section>
 
 <section class="mission_sec">

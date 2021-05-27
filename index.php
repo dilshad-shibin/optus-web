@@ -53,7 +53,7 @@
 <div class="align-container">
 <div class="align-container__item slider_content">
 <div class="promo-slider__wrapper-1">
-<h4>Lorem Ipsum</h4>
+<!-- <h4>Lorem Ipsum</h4> -->
 </div>
 <div class="promo-slider__wrapper-2">
 <h3 class="">
@@ -79,7 +79,7 @@ nurse in the UK</h3>
 <div class="align-container">
 <div class="align-container__item slider_content">
 <div class="promo-slider__wrapper-1">
-<h4>Lorem Ipsum</h4>
+<!-- <h4>Lorem Ipsum</h4> -->
 </div>
 <div class="promo-slider__wrapper-2">
 <h3 class="">
@@ -144,8 +144,8 @@ Optus Health Care <div class="t_line"><span></span></div></h1>
 <div class="">
 <div class="count_icon count_icon1"></div>
 <div class="count_dece">
-<div data-animation-duration="2000" data-value="10" class="animate-number counter_number">0</div> 
-<h5>YEARS OF EXPERIENCE</h5>
+<div data-animation-duration="2000" data-value="50" class="animate-number counter_number">0</div> 
+<h5>QUALITY UK EMPLOYERS</h5>
 </div>
 </div>
 </li>    
@@ -153,8 +153,8 @@ Optus Health Care <div class="t_line"><span></span></div></h1>
 <div class="">
 <div class="count_icon count_icon2"></div>
 <div class="count_dece">
-<div data-animation-duration="2000" data-value="12000" class="animate-number counter_number">0</div> 
-<h5>NURSES PLACED GLOBALLY</h5>
+<div data-animation-duration="2000" data-value="300" class="animate-number counter_number">0</div> 
+<h5>LIVE VACANCIES</h5>
 </div>
 </div>
 </li> 
@@ -162,8 +162,8 @@ Optus Health Care <div class="t_line"><span></span></div></h1>
 <div class="">
 <div class="count_icon count_icon3"></div>
 <div class="count_dece">
-<div data-animation-duration="2000" data-value="6000" class="animate-number counter_number">0</div> 
-<h5>NURSES PLACED IN THE UK</h5>
+<div data-animation-duration="2000" data-value="1000" class="animate-number counter_number">0</div> 
+<h5>NURSES PLACED GLOBALLY</h5>
 </div>
 </div>
 </li> 
@@ -240,12 +240,12 @@ Placements <div class="t_line"><span></span></div> </h3>
 <div class="tes_box_outer ">
 <div class="tes_box ">
 <div class="qute_icon"></div>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+<p>Hello everyone,I would like to express my sincerest gratitude to Optus healthcare teams especially Mr.jacob  who had fulfilled my dreams to get settled in uk within 2mnths ,Optus healthcare delivers high quality care and they are really helpful in all stages of our process ,so I strongly recommend all nurses to choose Optus healthcare services  ....go ahead let your dreams comz true. 😍😍 </p>
     
 <div class="tes_auther"> 
 <div class="tes_auther_title">
-<h5>AKSHAYA G</h5>
-<span> Lorem Ipsum is simply dummy </span>
+<h5>Eaju Abraham</h5>
+<!-- <span> Lorem Ipsum is simply dummy </span> -->
 </div>    
 </div>  
     
@@ -257,11 +257,28 @@ Placements <div class="t_line"><span></span></div> </h3>
 <div class="tes_box_outer ">
 <div class="tes_box ">
 <div class="qute_icon"></div>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+<p>Hi... first of all I would like to thank you the whole the team members of Optus for helping me to achieve my dream to work in UK with in the short period of processing time even in this toughest pandemic time.I strongly recommend Optus healthcare limited for all  the nurses who wish to work in UK because of their dedication,timely response, excellence and very short processing time...thank you once again to the whole team members.</p>
 <div class="tes_auther"> 
 <div class="tes_auther_title">
-<h5>AKSHAYA G</h5>
-<span> Lorem Ipsum is simply dummy </span>
+<h5>Sikha Rajan</h5>
+<!-- <span> Lorem Ipsum is simply dummy </span> -->
+</div>    
+</div>  
+    
+</div>            
+</div>            
+</div>
+
+<div class="item ">
+<div class="tes_box_outer ">
+<div class="tes_box ">
+<div class="qute_icon"></div>
+<p>It's been a fantastic experience with the team OPTUS. you could see highly organized, responsible professionalism from each of the team members, which plays a tremendous impact in speeding up your Processing in no time, that's what makes OPTUS stands out in the Business. From where I stand  I could suggest "OPTUS"  expeditiously to anyone who is seeking a nurse position in the UK.</p>
+    
+<div class="tes_auther"> 
+<div class="tes_auther_title">
+<h5>Aphoney Castle</h5>
+<!-- <span> Lorem Ipsum is simply dummy </span> -->
 </div>    
 </div>  
     
