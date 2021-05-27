@@ -57,8 +57,8 @@
 </div>
 <div class="promo-slider__wrapper-2">
 <h3 class="">
-Lorem Ipsum is <br>
-simply dummy text</h3>
+Dream of working as a  <br>
+nurse in the UK</h3>
 </div>	
 <div class="promo-slider__wrapper-3">
 <a class="theme_btn" href="treatments.php">Apply Now</a>
@@ -83,8 +83,8 @@ simply dummy text</h3>
 </div>
 <div class="promo-slider__wrapper-2">
 <h3 class="">
-Lorem Ipsum is <br>
-simply dummy text</h3>
+Want to live your  <br>
+UK dream?</h3>
 </div>	
 <div class="promo-slider__wrapper-3">
 <a class="theme_btn" href="treatments.php">Apply Now</a>
