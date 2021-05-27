@@ -762,6 +762,17 @@ body {
     color: #ec2029
 }
 
+.read_link_red{
+    color: #ec2029;
+    transition: 0.3s ease-in-out;
+    font-size: 12px;
+}
+
+.read_link_red:hover{
+    color: #1e1f86;
+    letter-spacing: 1px;
+}
+
 .read_link i {
     margin-left: 5px;
     vertical-align: middle;
@@ -2478,5 +2489,111 @@ body {
 .mission_sec{
     padding: 130px 0;
 }
+
+/* Popup */
+.modal{
+    overflow-x: hidden;
+    overflow-y: auto;
+    background: rgba(0,0,0,.7);
+}
+
+.modal-dialog{
+    max-width: 900px;
+}
+.modal-title{
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.modal-content, .modal-body{
+    border: 0;
+    padding: 0;
+    border-radius: 0;
+}
+
+.modal-left{
+    width: 50%;
+    float: left;
+    height: 480px;
+    background: url(../images/about/who-are-we.png) center no-repeat;
+    background-size: contain;
+    background-position: center;
+    position: relative;
+    padding: 60px;
+}
+
+.modal-left .overlay{
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.modal-right{
+    width: 50%;
+    float: left;
+    height: 480px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 30px 60px;
+}
+
+.modal-right form{
+    width: 100%;
+}
+
+.modal-right form .form-group{
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.modal-right input{
+    float: left;
+    height: 45px;
+    width: 100%;
+    border: 0;
+    outline: none;
+    color: #333;
+    font-size: 16px;
+    border-bottom: 1px solid rgba(0,0,0,.2);
+    border-radius: 0;
+    padding: .375rem 0;
+}
+
+.modal-heading{
+    position: absolute;
+    top: 0;
+    padding: 25px;
+}
+
+.modal-heading h3{
+    font-size: 28px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.modal-body button.close{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 25px;
+    z-index: 9999;
+}
+
+.modal-body button.close i{
+    font-size: 15px;
+    border: 1px solid #ec2029;
+    padding: 10px;
+    border-radius: 50%;
+    background: #ec2029;
+}
+
 
 /*# sourceMappingURL=custom.css.map */

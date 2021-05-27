@@ -61,7 +61,7 @@ Dream of working as a  <br>
 nurse in the UK</h3>
 </div>	
 <div class="promo-slider__wrapper-3">
-<a class="theme_btn" href="treatments.php">Apply Now</a>
+<a class="theme_btn" href="#" data-dismiss="modal" data-toggle="modal" data-target="#exampleModalCenter">Apply Now</a>
 </div>    
 </div>
 										</div>
@@ -87,7 +87,7 @@ Want to live your  <br>
 UK dream?</h3>
 </div>	
 <div class="promo-slider__wrapper-3">
-<a class="theme_btn" href="treatments.php">Apply Now</a>
+<a class="theme_btn" href="" data-dismiss="modal" data-toggle="modal" data-target="#exampleModalCenter">Apply Now</a>
 </div>    
 </div>
 										</div>
@@ -245,7 +245,7 @@ Placements <div class="t_line"><span></span></div> </h3>
 <div class="tes_auther"> 
 <div class="tes_auther_title">
 <h5>Eaju Abraham</h5>
-<!-- <span> Lorem Ipsum is simply dummy </span> -->
+<span> <a href="" class="read_link read_link_red">Read More <i class="fas fa-chevron-right"></i></a></span>
 </div>    
 </div>  
     
@@ -261,7 +261,7 @@ Placements <div class="t_line"><span></span></div> </h3>
 <div class="tes_auther"> 
 <div class="tes_auther_title">
 <h5>Sikha Rajan</h5>
-<!-- <span> Lorem Ipsum is simply dummy </span> -->
+<span> <a href="" class="read_link read_link_red">Read More <i class="fas fa-chevron-right"></i></a> </span>
 </div>    
 </div>  
     
@@ -278,7 +278,7 @@ Placements <div class="t_line"><span></span></div> </h3>
 <div class="tes_auther"> 
 <div class="tes_auther_title">
 <h5>Aphoney Castle</h5>
-<!-- <span> Lorem Ipsum is simply dummy </span> -->
+<span> <a href="" class="read_link read_link_red">Read More <i class="fas fa-chevron-right"></i></a></span>
 </div>    
 </div>  
     
@@ -362,6 +362,38 @@ BACHELOR PROGRAMS </a> </h4>
 </div>    
 
 </section>
+
+
+<!-- Popup -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal"><i class="icofont-ui-close"></i></button>
+                <div class="modal-left">
+                    <div class="overlay"></div>
+                </div>
+                <div class="modal-right">
+                    <div class="modal-heading">
+                        <h3>Contact Now </h3>
+                    </div>
+                    <form>
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="name" name="name" placeholder="Enter Your Name">
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="name" name="phone" placeholder="Enter your Phone No.">
+                            </div>
+                            <div class="form-group">
+                              <input type="email" class="form-control" name="email" id="email" placeholder="Enter email">
+                            </div>
+                            <button type="submit" class="theme_btn btn btn-block">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
     
 <?php include 'footer.php'; ?>  
     
