@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="css/fontawesome-all.css">
     <link rel="stylesheet" href="css/icofont.css">
     <link rel="stylesheet" href="css/linea-arrows.css">
+    <link rel="stylesheet" href="css/owl-carousel.css">
+    <link rel="stylesheet" href="css/owl-theme.css">
     <link rel="stylesheet" href="css/custom.css">
     <link rel="stylesheet" href="css/animate.css">
     <link href="css/panelmenu.css" rel="stylesheet">
@@ -173,58 +175,65 @@ Optus Health Care <div class="t_line"><span></span></div></h1>
 </section>
     
 <section class="hm_placement">
-<div class="container">
-<div class="row">
-<div class="col-lg-4">
-<div class="hm_plmt_title wow fadeInUp">
-<h3 class="main_title">Latest <br>
-Placements <div class="t_line"><span></span></div> </h3> 
-</div>  
-</div>  
-<div class="col-lg-8">
-<div class="hm_pmt_right">
-<div class="row">
-<div class="col-lg-4 col-sm-6">
-<div class="pmt_cate_box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
-<div class="pmt_cateimg comn_img_block">
-<img src="images/placement/1.jpg">
-</div>
-<div class="pmt_cate_title">
-<h5>Nisha jone</h5>    
-<p>Lorem Ipsum is simply dummy text of the.</p>
-</div>
-</div>
-</div> 
-    
-<div class="col-lg-4 col-sm-6">
-<div class="pmt_cate_box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">
-<div class="pmt_cateimg comn_img_block">
-<img src="images/placement/2.jpg">
-</div>
-<div class="pmt_cate_title">
-<h5>Nisha jone</h5>    
-<p>Lorem Ipsum is simply dummy text of the.</p>
-</div>
-</div>
-</div> 
-    
-<div class="col-lg-4 col-sm-6">
-<div class="pmt_cate_box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s">
-<div class="pmt_cateimg comn_img_block">
-<img src="images/placement/3.jpg">
-</div>
-<div class="pmt_cate_title">
-<h5>Nisha jone</h5>    
-<p>Lorem Ipsum is simply dummy text of the.</p>
-</div>
-</div>
-</div> 
-    
-</div>
-</div>  
-</div> 
-</div>  
-</div>    
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="hm_plmt_title wow fadeInUp">
+                    <h3 class="main_title">Latest <br>Placements <div class="t_line"><span></span></div> </h3> 
+                </div>  
+            </div>  
+            <div class="col-lg-8">
+                <div id="placement-slider" class="placement-lists">
+                    <div class="item">
+                        <div class="item-box">
+                            <img src="images/placement/pla-1.jpg" alt="">
+                        </div>
+                        <div class="item-content text-center">
+                            <h3>NHS</h3>
+                            <h2>Aneurin Bevan University</h2>
+                            <h2>Health Board NHS Trust</h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="item-box">
+                            <img src="images/placement/pla-2.jpg" alt="">
+                        </div>
+                        <div class="item-content text-center">
+                            <h3>NHS</h3>
+                            <h2>Bristol & Weston NHS Trust</h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="item-box">
+                            <img src="images/placement/pla-3.jpg" alt="">
+                        </div>
+                        <div class="item-content text-center">
+                            <h3>NHS</h3>
+                            <h2>University Hospitals Of Leicester NHS Trust</h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="item-box">
+                            <img src="images/placement/pla-4.jpg" alt="">
+                        </div>
+                        <div class="item-content text-center">
+                            <h3>NHS</h3>
+                            <h2>United Lincolnshire NHS Trust</h2>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="item-box">
+                            <img src="images/placement/pla-5.jpg" alt="">
+                        </div>
+                        <div class="item-content text-center">
+                            <h3>NHS</h3>
+                            <h2>Betsi cadwaladr NHS Trust</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>  
+    </div>    
 </section>
     
 <section class="hm_testimonial">
@@ -404,6 +413,7 @@ BACHELOR PROGRAMS </a> </h4>
 
     <script src="js/jquery-1.12.4.min.js"></script>
     <script src="js/bootstrap.js"></script>
+    <script src="js/owl-carousel.js"></script>
     <script src="js/stickynew.js"></script>
     <script src="js/panelmenu.js"></script>
     <script src="js/panel-custom.js"></script>

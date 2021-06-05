@@ -91,6 +91,42 @@ if ($('#testimonial-slider').length) {
         });
     }
 
+    /*------------------------------------------
+        = Placement SLIDER
+    -------------------------------------------*/
+    if ($("#placement-slider").length) {
+        $("#placement-slider").owlCarousel({
+            loop: true,
+            margin: 10,
+            nav: true,
+            navText: ['<i class="fas fa-chevron-left"></i>', '<i class="fas fa-chevron-right"></i>'],
+            dots: false,
+            responsive: {
+                0: {
+                    items: 1,
+                },
+
+                550: {
+                    items: 1,
+                    center: false,
+                    margin: 10
+                },
+                
+                767: {
+                    items: 2
+                },
+
+                992: {
+                    items: 2
+                },
+
+                1200: {
+                    items: 2
+                }
+            }
+        });
+    }
+
 
 
  $('.totop').tottTop({
